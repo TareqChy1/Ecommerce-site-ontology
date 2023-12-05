@@ -7,7 +7,6 @@ This ontology is designed to model an Electronics and Gadgets E-commerce site, p
 - To enable effective customer segmentation, and 
 - To facilitate thorough analysis.
 
-The ontology is available in various formats including JSON-LD, and TTL.
 
 
 ## Authors
